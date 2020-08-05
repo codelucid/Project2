@@ -25,8 +25,10 @@ To install necessary dependencies, run the following command:
 
 This is what the user needs to know about using the repo:
 Contact Codelucid for details, but always pull first and commit often!  Enjoy using this application to easily connect with a tour guide. 
-- Plan your trip
+- Plan Your Trip
 ![Plan Trip](/stepOne.png) 
+- Create a New Account
+![Create Account](/stepTwo.png)
 
 ## License  
 
