@@ -29,6 +29,8 @@ Contact Codelucid for details, but always pull first and commit often!  Enjoy us
 ![Plan Trip](/stepOne.png) 
 - Create a New Account
 ![Create Account](/stepTwo.png)
+- Membership
+![Membership](/stepThree.png)
 
 ## License  
 
