@@ -1,6 +1,6 @@
 # TourZing  
 
-![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
+![GitHub license](https://img.shields.io/badge/Skill-HTML-brightgreen) ![GitHub license](https://img.shields.io/badge/Skill-CSS-blue) ![GitHub license](https://img.shields.io/badge/Skill-JS-red) ![GitHub license](https://img.shields.io/badge/Skill-HandleBars-purple)
 
 ## Description  
 
@@ -34,8 +34,7 @@ Contact Codelucid for details, but always pull first and commit often!  Enjoy us
 
 ## License  
 
-The license for this project:
-None  
+![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
 
 ## Contributing  
 
