@@ -6,7 +6,7 @@
 
 Are you planning a trip around the world?  Are you considering a tour in the city where you will be staying?  This application is for you! This is a full-stack application utilizing MySQL Database and handlebars templating engine, where the user can log-in to the travel guide application to sign up for a tour based on chosen tour guide.
 
-[TourZing](https://degrassi-syrup-05027.herokuapp.com/ "TourZing")
+[TourZing](https://tourzing.herokuapp.com/)
 
 ## Table of Contents
 - Installation 
